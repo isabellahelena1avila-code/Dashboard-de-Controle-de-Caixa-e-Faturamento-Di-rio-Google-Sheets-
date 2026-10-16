@@ -4,7 +4,8 @@ Necessidade de centralizar o controle financeiro operacional de um negócio, aut
 
 3.Tecnologias e Funções:
 
-A Solução Desenvolvida.Google Planilhas: Utilização de funções lógicas e de agregação (SOMA) para consolidação dinâmica de dados.Engenharia de Dados Básica: Limpeza, padronização e estruturação de colunas de data, descrição, categorias e valores monetários.Visualização de Dados: Construção de gráficos de tendências temporais com agrupamento automático (Agregar) para análise visual de picos de faturamento.
+A Solução Desenvolvida.
+Google Planilhas: Utilização de funções lógicas e de agregação (SOMA) para consolidação dinâmica de dados.Engenharia de Dados Básica: Limpeza, padronização e estruturação de colunas de data, descrição, categorias e valores monetários.Visualização de Dados: Construção de gráficos de tendências temporais com agrupamento automático (Agregar) para análise visual de picos de faturamento.
 
 4.Valor Gerado:
 
